@@ -1,6 +1,6 @@
 # Maou — Bot Developer Portfolio
 
-A single-page portfolio focused entirely on bot and automation work — Telegram, Discord, WhatsApp, and AI-powered chat agents. Built by **Maou** (Musa Usman), based in Lokoja, Nigeria.
+A single-page portfolio focused entirely on bot and automation work — Telegram, Discord, WhatsApp, and AI-powered chat agents. 
 
 
 ---
