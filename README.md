@@ -1,4 +1,4 @@
-# Maou — Bot Developer Portfolio
+# Maou — Bot Developer Portfolio 
 
 A single-page portfolio focused entirely on bot and automation work — Telegram, Discord, WhatsApp, and AI-powered chat agents. 
 
