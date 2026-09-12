@@ -13,7 +13,7 @@ Unlike my main portfolio, this site is scoped strictly to bots and automation �
 
 - HTML5 / CSS3
 - Vanilla JavaScript
-- Google Fonts — Space Grotesk / Inter
+- Google Fonts — Space Grotesk / Inter 
 - Inline SVG icons (GitHub, X/Twitter, LinkedIn)
 - Hosted on GitHub Pages
 
